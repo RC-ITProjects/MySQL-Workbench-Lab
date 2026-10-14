@@ -1,12 +1,12 @@
 # MySQL Workbench
 
-DBMS practice for Database Principles (Fall 2026), written and run in MySQL Workbench.
+Self-study SQL practice following [COURSE NAME](COURSE LINK), written and run in MySQL Workbench.
 
 ## Folder layout
 
 | Folder | What goes in it |
 | --- | --- |
-| `scripts/` | Scripts I was given (class files, sample databases), kept unchanged |
+| `scripts/` | Scripts provided by the course (sample databases), kept unchanged |
 | `practice/` | SQL I write myself, one file per topic or session |
 | `models/` | MySQL Workbench EER diagrams (`.mwb`) and exported images |
 | `LOG.md` | Short dated notes on what I practiced and learned |
