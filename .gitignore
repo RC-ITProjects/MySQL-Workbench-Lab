@@ -1,0 +1,19 @@
+# MySQL Workbench backup / temp files
+*.mwb.bak
+*.mwb.beforefix
+*.tmp
+
+# Never commit credentials or local connection settings
+*.env
+*.cnf
+credentials*
+
+# Large data dumps (remove a line if you do want to track one)
+*.zip
+*.gz
+
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
